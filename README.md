@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mcbarlowe/<OWNER>/<OWNER>/githublogo.png "Header")](https://barloweanalytics.com)
+[![Header](https://raw.githubusercontent.com/mcbarlowe/mcbarlowe/main/githublogo.png "Header")](https://barloweanalytics.com)
 ### Hi there 👋
 
 <!--
