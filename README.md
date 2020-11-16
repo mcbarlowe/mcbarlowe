@@ -1,9 +1,9 @@
 [![Header](https://raw.githubusercontent.com/mcbarlowe/mcbarlowe/main/githublogo.png "Header")](https://barloweanalytics.com)
 
 <p align='center'>
-<a href="https://twitter.com/matthew_barlowe"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/mcbarlowe"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/mcbarlowe/"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/matthew_barlowe"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/mcbarlowe"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/mcbarlowe/"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/linkedin.png?raw=true"></a>
 <a href="https://stackoverflow.com/users/7885229/matthew-barlowe"><img height="30" src="https://github.com/mcbarlowe/mcbarlowe/blob/main/768px-Stack_Overflow_icon.svg.png"></a>
 </p>
 
